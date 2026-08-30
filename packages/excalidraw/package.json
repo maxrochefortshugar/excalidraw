@@ -1,6 +1,6 @@
 {
   "name": "@excalidraw/excalidraw",
-  "version": "0.18.1-decomposition.1",
+  "version": "0.18.1-decomposition.2",
   "type": "module",
   "types": "./dist/types/excalidraw/index.d.ts",
   "main": "./dist/prod/index.js",
@@ -87,8 +87,7 @@
     "points-on-curve": "1.0.1",
     "pwacompat": "2.0.17",
     "roughjs": "4.6.4",
-    "sass": "1.51.0",
-    "tunnel-rat": "0.1.2"
+    "sass": "1.51.0"
   },
   "devDependencies": {
     "@excalidraw/mermaid-to-excalidraw": "2.2.2",

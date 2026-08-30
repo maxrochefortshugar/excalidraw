@@ -1,6 +1,7 @@
 import React from "react";
-import tunnel from "tunnel-rat";
 import { createIsolation } from "jotai-scope";
+
+import { tunnel } from "./tunnel";
 
 export type Tunnel = ReturnType<typeof tunnel>;
 

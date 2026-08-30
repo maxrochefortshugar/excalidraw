@@ -17,6 +17,8 @@ import MainMenu from "./components/main-menu/MainMenu";
 import WelcomeScreen from "./components/welcome-screen/WelcomeScreen";
 import LiveCollaborationTrigger from "./components/live-collaboration/LiveCollaborationTrigger";
 
+export { COLOR_PALETTE } from "./colors";
+
 polyfill();
 
 const ExcalidrawBase = (props: ExcalidrawProps) => {
